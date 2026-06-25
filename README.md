@@ -49,7 +49,7 @@ pip install -r requirements.txt
 - Python 3.x
 
 ## Author
-Meghanalokandham
+Meghanalokanadham
 
 ## License
 This project is for educational purposes only.
